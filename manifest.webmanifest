@@ -1,1 +1,1 @@
-{"name":"TradePilot AI Paper Trading","short_name":"TradePilot","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#0b1220","theme_color":"#0b1220","description":"Local automated paper trading simulator"}
+{"name":"TradePilot AI 2.0 — Paper","short_name":"TradePilot","description":"Cloud paper trading dashboard","start_url":"./","scope":"./","display":"standalone","background_color":"#0b1220","theme_color":"#0b1220","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}

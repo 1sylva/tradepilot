@@ -1,0 +1,14 @@
+name = "tradepilot-paper-engine"
+main = "worker.js"
+compatibility_date = "2025-07-01"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tradepilot-paper"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
