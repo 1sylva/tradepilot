@@ -11,4 +11,4 @@ database_name = "tradepilot-paper"
 database_id = "49241eed-6da0-40fa-9198-88f877261402" 
 
 [vars]
-ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
+ALLOWED_ORIGIN = "https://1jsylva.github.io"
